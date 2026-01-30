@@ -37,7 +37,7 @@
 <br>
 <!-- ================= ABOUT ================= -->
 <p align="justify">
-Hi, I'm <b>Hafiz Masood Asif</b> — a passionate Freelance <b>Web Developer & Designer</b> specializing in <b>WordPress</b>, <b>Shopify</b>, and <b>custom-coded</b> websites.  
+Hi, I'm <b>Hafiz zaik khan</b> — a passionate Freelance <b>Web Developer & Designer</b> specializing in <b>WordPress</b>, <b>Shopify</b>, and <b>custom-coded</b> websites.  
 I create fast, responsive, and SEO-friendly websites that help brands stand out and turn visitors into loyal customers.  
 
 Whether you need a modern business site or a high-converting eCommerce store, I deliver clean code, pixel-perfect design, and seamless user experiences.  
